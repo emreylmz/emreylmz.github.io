@@ -1,0 +1,20 @@
+{
+	"id": "user1",
+	"photos": [
+		{
+			"url": "",
+			"thumbnailUrl": "https://www.eharmony.com/blog/wp-content/uploads/2010/04/eHarmony-Blog-profile-picture.jpg"
+		}
+	],
+	"firstName": "Emre",
+	"lastName": "Yılmaz",
+	"gender": 0,
+	"job": "Computer Engineer",
+	"company": "Trukcell",
+	"birthDate": 1234567890,
+	"age": 23,
+	"relationshipStatus": 1,
+	"horoscope": 6,
+	"memberType": 1,
+	"about": "kjşlkjdf lksjadf lşksajf lşskjf saldşfj sadlşfj sadlşfj asdlşfj asdlşfj asdlşfj sadlfj sadlşkfj asdşlfj sadlşfj lsşkdfj lasşdj"
+}

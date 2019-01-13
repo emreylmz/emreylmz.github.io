@@ -1,0 +1,57 @@
+[
+	{
+		"id": "1",
+		"firstName": "Emre",
+		"lastName": "Yılmaz",
+		"profilePhoto": {
+			"url": "",
+			"thumbnailUrl": "https://i.pinimg.com/564x/7a/6b/d4/7a6bd4465d9c28213edb2bcae4a549bc.jpg"
+		},
+		"lastMessageDate": "1m",
+		"lastMessage": "Hello there, I am using Blind Date and I love it. You must join us for finding love of your life...",
+		"unreadMessageCount": 3
+	},
+	{
+		"id": "2",
+		"firstName": "Emre",
+		"lastName": "Yılmaz",
+		"profilePhoto": {
+			"url": "",
+			"thumbnailUrl": ""
+		},
+		"lastMessageDate": "1h",
+		"lastMessage": "Hello therefff",
+		"unreadMessageCount": 22
+	},
+	{
+		"id": "3",
+		"firstName": "Emre",
+		"lastName": "Yılmaz",
+		"profilePhoto": {
+			"url": "",
+			"thumbnailUrl": "https://i.pinimg.com/564x/7a/6b/d4/7a6bd4465d9c28213edb2bcae4a549bc.jpg"
+		},
+		"lastMessageDate": "",
+	},
+	{
+		"id": "4",
+		"firstName": "Emre",
+		"lastName": "Yılmaz",
+		"profilePhoto": {
+			"url": "",
+			"thumbnailUrl": "https://i.pinimg.com/564x/7a/6b/d4/7a6bd4465d9c28213edb2bcae4a549bc.jpg"
+		},
+		"lastMessageDate": "1w",
+		"lastMessage": "Hello there good night",
+	},
+	{
+		"id": "5",
+		"firstName": "Emre",
+		"profilePhoto": {
+			"url": "",
+			"thumbnailUrl": "https://i.pinimg.com/564x/7a/6b/d4/7a6bd4465d9c28213edb2bcae4a549bc.jpg"
+		},
+		"lastMessageDate": "2d",
+		"lastMessage": "Whats up my baby",
+	}
+]

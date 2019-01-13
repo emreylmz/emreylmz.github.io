@@ -1,0 +1,95 @@
+{
+	"user": {
+		"id": "user1",
+		"photos": [
+			{
+				"url": "",
+				"thumbnailUrl": "https://i.pinimg.com/564x/83/64/af/8364afc2d9cc7cde7010c8004a1f8820.jpg"
+			},
+			{
+				"url": "",
+				"thumbnailUrl": "https://i.pinimg.com/564x/7a/6b/d4/7a6bd4465d9c28213edb2bcae4a549bc.jpg"
+			}
+		],
+		"firstName": "Berlin",
+		"lastName": "Malto",
+		"gender": 1,
+		"birthDate": 1234567890,
+		"age": 23,
+		"about": "Benim hakkımda ne düşünüyorsun çok merak ediyorum? Bana erkek bulun lütfen. Aradığım özellikler arasında sarışın olan, mavi gözlü de olsun bunun gibi güzel bir kız lazım bana.",
+		"relationshipStatus": 1,
+		"horoscope": 6,
+		"memberType": 1,
+		"characteristics": {
+			"weight": 50,
+			"height": 170
+		}
+	},
+	"match": {
+		"id": "1",
+		"type": 0,
+		"firstUser": {
+			"id": "user1",
+			"photos": [
+				{
+					"url": "",
+					"thumbnailUrl": "https://www.eharmony.com/blog/wp-content/uploads/2010/04/eHarmony-Blog-profile-picture.jpg"
+				},
+				{
+					"url": "",
+					"thumbnailUrl": "https://i.pinimg.com/originals/37/73/52/377352c489acb98643d50de2762de7b5.jpg"
+				},
+				{
+					"url": "",
+					"thumbnailUrl": "https://www.bikkinpanda.com/wp-content/uploads/2018/09/Yak%C4%B1%C5%9F%C4%B1kl%C4%B1-Erkek-2018-6-349x385.jpg"
+				},
+				{
+					"url": "",
+					"thumbnailUrl": "https://www.bikkinpanda.com/wp-content/uploads/2018/09/Yak%C4%B1%C5%9F%C4%B1kl%C4%B1-Erkek-2018-2-500x385.jpg"
+				}
+			],
+			"firstName": "Emre",
+			"lastName": "Yılmaz",
+			"gender": 0,
+			"birthDate": 1234567890,
+			"age": 23,
+			"about": "Çok bir şey yok bende.",
+			"relationshipStatus": 1,
+			"horoscope": 6,
+			"memberType": 1,
+			"characteristics": {
+				"weight": 50,
+				"height": 170
+			}
+		},
+		"secondUser": {
+			"id": "user1",
+			"photos": [
+				{
+					"url": "",
+					"thumbnailUrl": "https://i.pinimg.com/564x/83/64/af/8364afc2d9cc7cde7010c8004a1f8820.jpg"
+				},
+				{
+					"url": "",
+					"thumbnailUrl": "https://i.pinimg.com/564x/7a/6b/d4/7a6bd4465d9c28213edb2bcae4a549bc.jpg"
+				}
+			],
+			"firstName": "Berlin",
+			"lastName": "Malto",
+			"gender": 1,
+			"birthDate": 1234567890,
+			"age": 23,
+			"about": "Benim hakkımda ne düşünüyorsun çok merak ediyorum? Bana erkek bulun lütfen. Aradığım özellikler arasında sarışın olan, mavi gözlü de olsun bunun gibi güzel bir kız lazım bana.",
+			"relationshipStatus": 1,
+			"horoscope": 6,
+			"memberType": 1,
+			"characteristics": {
+				"weight": 50,
+				"height": 170
+			}
+		},
+		"point": 10,
+		"createDate": 123456789
+	}
+
+}

@@ -1,0 +1,21 @@
+{
+	"id": "user1",
+	"photos": [
+		{
+			"id": 0,
+			"url": "url"
+		},
+		{
+			"id": 1,
+			"url": "url"
+		}
+	],
+	"firstName": "Emre",
+	"lastName": "Yılmaz",
+	"gender": 0,
+	"birthDate": 1234567890,
+	"age": 23,
+	"relationshipStatus": 1,
+	"horoscope": 6,
+	"memberType": 0
+}
